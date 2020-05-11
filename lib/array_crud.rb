@@ -10,8 +10,10 @@ end
 def add_element_to_end_of_array(array, element)
   array = ["cat","dog","duck"]
     array << "horse"
-    puts array[4]
-  element.push = ["dog"]
+    puts array[3]
+  element = ["jump","run","walk"]
+    element << "gallop"
+    puts element[3]
   
 end
 
