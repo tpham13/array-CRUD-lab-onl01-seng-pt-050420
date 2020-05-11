@@ -8,8 +8,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = ["cat","dog","duck","horse"]
-    array << 4
+  array = ["cat","dog","duck"]
+    array << "horse"
+    puts push(4)
   element.push = ["dog"]
   
 end
