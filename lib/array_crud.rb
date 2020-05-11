@@ -9,7 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = ["cat","dog","duck","horse"]
-    array << 
+    array << 4
   element.push = ["dog"]
   
 end
